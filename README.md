@@ -6,7 +6,7 @@ The Assets(Logo, Icon and etc...) of MiCasa Project
   <img width="40%" height="40%" src="https://github.com/MiCasa-IoT/Assets/blob/master/logo.png">
 </p>
 
-## LICENSE
+## License
 
 [MIT License](https://github.com/MiCasa-IoT/Assets/blob/master/LICENSE)
 
